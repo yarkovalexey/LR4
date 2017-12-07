@@ -1,3 +1,8 @@
+/*
+ * Created by Alexey Yarkov on 25.10.17
+ * Copyright © 2017 Alexey Yarkov. All rights reserved.
+ */
+
 public class Car {
     private int ID, Year, V, Price;
     private String Model, Country;
